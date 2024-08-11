@@ -1,0 +1,10 @@
+  .AppDiv{
+    display:block;
+    height: auto;
+    width: 50vw;
+    background-color: rgba(240, 255, 255, 0.927);
+    margin: 50px  ;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+  }
