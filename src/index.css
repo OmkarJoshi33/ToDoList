@@ -1,13 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 *
 {
     margin: 0%;
     padding: 0%;
+
 }
-:root
+body
 {
-    display: flex;
-    height: 100%;
-    width: 100%;
-    justify-content:center ;
-    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    background: linear-gradient(to right, #ec4899, #8b5cf6);
+height: 100%;
+width: 100%;
 }
